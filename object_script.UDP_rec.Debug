@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\qcustomplot.o
+./debug\readini.o
+./debug\controlparameter.o
+./debug\loadconf_sqlit.o
+./debug\switchwindow.o
+./debug\notepadform.o
+./debug\moc_mainwindow.o
+./debug\moc_qcustomplot.o
+./debug\moc_switchwindow.o
+./debug\moc_notepadform.o
+);

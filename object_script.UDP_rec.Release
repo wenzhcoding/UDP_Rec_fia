@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\qcustomplot.o
+./release\readini.o
+./release\controlparameter.o
+./release\loadconf_sqlit.o
+./release\switchwindow.o
+./release\notepadform.o
+./release\moc_mainwindow.o
+./release\moc_qcustomplot.o
+./release\moc_switchwindow.o
+./release\moc_notepadform.o
+);
